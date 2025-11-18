@@ -13,7 +13,7 @@ pipeline {
 
                     git branch: 'main',
 
-                            url: ' https://github.com/saifeddinefrikhi-lab/piplineJenkins.git'
+                    url: ' https://github.com/saifeddinefrikhi-lab/piplineJenkins.git'
 
                 }
 
